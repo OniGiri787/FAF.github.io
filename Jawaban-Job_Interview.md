@@ -22,9 +22,9 @@ d.	Target User<br>
 6.	Seseorang yang bekerja<br>
 7.	Seseorang yang sudah pensiun<br>
 e.	User Experience theme :<br>
-1.	Mudah<br>
-2.	Sederhana<br>
-3.	Cepat<br>
+I.	Mudah<br>
+II.	Sederhana<br>
+III.	Cepat<br>
 ## 2. User Story
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---|
