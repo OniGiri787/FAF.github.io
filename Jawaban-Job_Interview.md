@@ -10,21 +10,21 @@ FrontEnd : HTML, CSS, dan JavaScript <br>
 BackEnd : PHP<br>
 e.	BasisData : MySQL<br>
 ## 1.3 Branding
-•	Merk : SPL (Simple Personal List)<br>
-•	TagLine : ToDo List yang mudah dan cepat<br>
-•	Campaign : Membuat aplikasi yang membuat penggunanya memudahkan untuk mengingatkan pekerjaan<br>
-•	Target User<br>
-o	Usia 7+<br>
-o	Seseorang yang memiliki banyak kegiatan<br>
-o	Seseorang yang memiliki banyak tugas<br>
-o	Seseorang yang bersekolah<br>
-o	Seseorang yang berkuliah<br>
-o	Seseorang yang bekerja<br>
-o	Seseorang yang sudah pensiun<br>
-•	User Experience theme :<br>
-o	Mudah<br>
-o	Sederhana<br>
-o	Cepat<br>
+a.	Merk : SPL (Simple Personal List)<br>
+b.	TagLine : ToDo List yang mudah dan cepat<br>
+c.	Campaign : Membuat aplikasi yang membuat penggunanya memudahkan untuk mengingatkan pekerjaan<br>
+d.	Target User<br>
+1.	Usia 7+<br>
+2.	Seseorang yang memiliki banyak kegiatan<br>
+3.	Seseorang yang memiliki banyak tugas<br>
+4.	Seseorang yang bersekolah<br>
+5.	Seseorang yang berkuliah<br>
+6.	Seseorang yang bekerja<br>
+7.	Seseorang yang sudah pensiun<br>
+e.	User Experience theme :<br>
+1.	Mudah<br>
+2.	Sederhana<br>
+3.	Cepat<br>
 ## 2. User Story
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---|
