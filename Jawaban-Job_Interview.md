@@ -2,13 +2,13 @@
 Dalam kehidupan sehari-hari, banyak sekali pekerjaan yang harus dilakukan. Lalu Ketika sedang melakukan suatu pekerjaan, terkadang datang pekerjaan baru. Dan jika pekerjaan menumpuk, akan susah untuk mengingat apa saja yang harus dikerjakan.
 Karena itulah saya membuat aplikasi To Do List berbasis website. Kenapa Website? Karena kita tidak selalu membawa alat tulis kemana-mana, melainkan membawa HandPhone/Laptop. Dengan memanfaatkan kemajuan teknologi saat ini, anda bisa membuat list pekerjaan dimana saja dan kapan saja.
 ## 1.2 Deskripsi Teknologi Informasi
-a.	Mesin komputasi : Laptop dengan system operasi windows 11
-b.	Aplikasi IDE : Visual Studio Code
-c.	Membuat desain : Paint ( untuk gambaran kasar ) dan Figma
-d.	Bahasa pemograman yang digunakan :
-FrontEnd : HTML, CSS, dan JavaScript
-BackEnd : PHP
-e.	BasisData : MySQL
+a.	Mesin komputasi : Laptop dengan system operasi windows 11<br>
+b.	Aplikasi IDE : Visual Studio Code<br>
+c.	Membuat desain : Paint ( untuk gambaran kasar ) dan Figma<br>
+d.	Bahasa pemograman yang digunakan : <br>
+FrontEnd : HTML, CSS, dan JavaScript <br>
+BackEnd : PHP<br>
+e.	BasisData : MySQL<br>
 ## 1.3 Branding
 •	Merk : SPL (Simple Personal List)
 •	TagLine : ToDo List yang mudah dan cepat
