@@ -46,3 +46,7 @@ User | Hapus ToDo | Menghapus pekerjaan/tugas | ⭐⭐⭐⭐⭐
 ![Screenshot 2023-11-01 091210](https://github.com/OniGiri787/FAF.github.io/assets/124949510/785e99e1-0c51-4732-a193-d77fa8d0f086)
 ![Screenshot 2023-11-01 091233](https://github.com/OniGiri787/FAF.github.io/assets/124949510/9e468691-b823-4318-ac18-9116dde36e65)<br>
 <br>
+## 5. Teknologi, Library dan FrameWork
+...
+## 6. Desain User Experience dan Interface
+![Home](https://github.com/OniGiri787/FAF.github.io/assets/124949510/e0ff4145-786e-4368-9e11-2bf97d0fcbeb)
