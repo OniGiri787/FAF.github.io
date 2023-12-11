@@ -47,8 +47,28 @@ User | Hapus ToDo | Menghapus pekerjaan/tugas | ⭐⭐⭐⭐⭐
 ![Screenshot 2023-11-01 091233](https://github.com/OniGiri787/FAF.github.io/assets/124949510/9e468691-b823-4318-ac18-9116dde36e65)<br>
 <br>
 ## 5. Teknologi, Library dan FrameWork
-...
+A. FrontEnd Technologies :
+1. HTML
+2. CSS
+3. JavaScript <br>
+<br>
+B. BackEnd Technologies : <br>
+<br>
+  - Server-Side Scripting Language : <br>
+  1. PHP <br>
+  - DataBase : <br>
+  1. MySQL <br> 
+  <br>
+C. FrontEnd FrameWork <br>
+<br>
+1. React <br>
+<br>
+D. Responsive Design FrameWork : <br>
+<br>
+1. Bootstrap <br>
+<br>
 ## 6. Desain User Experience dan Interface
+
 ![Home (1)](https://github.com/OniGiri787/FAF.github.io/assets/124949510/66f294ee-5cf3-49a4-8986-8ce3fbc71088)
 
 ![Frame 2](https://github.com/OniGiri787/FAF.github.io/assets/124949510/0f252971-b21f-466c-9c1d-1194a5dae4fd)
