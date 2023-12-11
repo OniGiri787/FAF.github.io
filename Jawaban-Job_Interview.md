@@ -49,4 +49,6 @@ User | Hapus ToDo | Menghapus pekerjaan/tugas | ⭐⭐⭐⭐⭐
 ## 5. Teknologi, Library dan FrameWork
 ...
 ## 6. Desain User Experience dan Interface
-![Home](https://github.com/OniGiri787/FAF.github.io/assets/124949510/e0ff4145-786e-4368-9e11-2bf97d0fcbeb)
+![Home (1)](https://github.com/OniGiri787/FAF.github.io/assets/124949510/66f294ee-5cf3-49a4-8986-8ce3fbc71088)
+
+![Frame 2](https://github.com/OniGiri787/FAF.github.io/assets/124949510/0f252971-b21f-466c-9c1d-1194a5dae4fd)
