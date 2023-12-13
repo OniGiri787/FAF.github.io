@@ -28,9 +28,10 @@ III.	Cepat<br>
 ## 2. User Story
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---|
-User | SignIn | Bisa Login | ⭐⭐⭐⭐⭐
 User | LogIn | Bisa masuk ke halaman ToDo | ⭐⭐⭐⭐⭐
-User | Membuat ToDo | Tau/mengingat pekerjaan/tugas | ⭐⭐⭐⭐⭐
+User | Membuat ToDo | membuat list pekerjaan/tugas | ⭐⭐⭐⭐⭐
+User | Memilih Due Date | Tau/mengingat pekerjaan/tugas | ⭐⭐⭐⭐⭐
+User | Memilih Prioritas | Tau pekerjaan yang diprioritaskan | ⭐⭐⭐⭐⭐
 User | Menyelesaikan ToDO | Tau pekerjaan/tugas selesai | ⭐⭐⭐⭐⭐
 User | Edit ToDo | Merubah detail pekerjaan/tugas | ⭐⭐⭐⭐⭐
 User | Hapus ToDo | Menghapus pekerjaan/tugas | ⭐⭐⭐⭐⭐
@@ -56,6 +57,7 @@ B. BackEnd Technologies : <br>
 <br>
   - Server-Side Scripting Language : <br>
   1. PHP <br>
+  2. Node.js <br>
   - DataBase : <br>
   1. MySQL <br> 
   <br>
@@ -66,6 +68,12 @@ C. FrontEnd FrameWork <br>
 D. Responsive Design FrameWork : <br>
 <br>
 1. Bootstrap <br>
+<br>
+E. API : <br>
+1. Google Cloud Console<br>
+<br>
+F. Library <br>
+1. datepicker <br>
 <br>
 ## 6. Desain User Experience dan Interface
 
