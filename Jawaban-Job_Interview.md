@@ -4,8 +4,9 @@ Karena itulah saya membuat aplikasi To Do List berbasis website. Kenapa Website?
 ## 1.2 Deskripsi Teknologi Informasi
 a.	Mesin komputasi : Laptop dengan system operasi windows 11<br>
 b.	Aplikasi IDE : Visual Studio Code<br>
-c.	Membuat desain : Paint ( untuk gambaran kasar ) dan Figma<br>
-d.	Bahasa pemograman yang digunakan : <br>
+c.  Aplikasi WebServer Local : Xampp <br>
+d.	Membuat desain : Paint ( untuk gambaran kasar ) dan Figma<br>
+e.	Bahasa pemograman yang digunakan : <br>
 FrontEnd : HTML, CSS, dan JavaScript <br>
 BackEnd : PHP<br>
 e.	BasisData : MySQL<br>
