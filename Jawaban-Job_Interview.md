@@ -77,10 +77,23 @@ F. Library <br>
 1. datepicker <br>
 <br>
 ## 6. Desain User Experience dan Interface
-
 ![Home (1)](https://github.com/OniGiri787/FAF.github.io/assets/124949510/66f294ee-5cf3-49a4-8986-8ce3fbc71088)
 
 ![ToDo](https://github.com/OniGiri787/FAF.github.io/assets/124949510/ea95b126-6ca7-4a1a-b8a9-a685be7c67e7)
 
 ![ToDo make](https://github.com/OniGiri787/FAF.github.io/assets/124949510/492f8bf0-f6c5-40f0-9d04-a58987498b65)
 
+## 7. Demonstari Video
+https://youtu.be/TvnNz7UZDSM
+
+## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
+https://youtu.be/kWSonCgEdYc
+
+## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
+https://youtu.be/ioRos6psNeM
+
+## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
+https://youtu.be/-vjOyDOwqD8
+
+## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
+https://youtu.be/JvqslvZj2m4
