@@ -96,4 +96,4 @@ https://youtu.be/ioRos6psNeM
 https://youtu.be/-vjOyDOwqD8
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
-https://youtu.be/JvqslvZj2m4
+https://youtu.be/lKyRIlxdddQ
